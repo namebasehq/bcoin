@@ -1,6 +1,5 @@
 {
   "name": "bcoin",
-  "name": "namebase-bcoin",
   "version": "2.0.0-dev",
   "description": "Bitcoin bike-shed",
   "license": "MIT",
